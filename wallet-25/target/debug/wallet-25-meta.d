@@ -1,0 +1,1 @@
+/Users/pauloalberto/multiversx-wallet25/wallet-25/target/debug/wallet-25-meta: /Users/pauloalberto/multiversx-wallet25/wallet-25/meta/src/main.rs /Users/pauloalberto/multiversx-wallet25/wallet-25/src/wallet_25.rs

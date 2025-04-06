@@ -1,0 +1,1 @@
+/Users/pauloalberto/multiversx-wallet25/wallet-25/target/wasm32-unknown-unknown/release/wallet_25_wasm.wasm: /Users/pauloalberto/multiversx-wallet25/wallet-25/src/wallet_25.rs /Users/pauloalberto/multiversx-wallet25/wallet-25/wasm/src/lib.rs
