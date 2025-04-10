@@ -1,0 +1,24 @@
+fn crowdfunding_deploy() -> ScenarioWorld {
+    // Cria um mundo de execução de contrato
+    let mut world = world();
+
+    // Configura a conta OWNER, definindo nonce e saldo inicial
+    world.account(OWNER).nonce(0).balance(1_000_000);
+
+    // Realiza a implantação do contrato
+    let crowdfunding_address = world
+        .tx()
+        .from(OWNER)  // Envia a transação da conta OWNER
+        .typed(crowdfunding_proxy::CrowdfundingProxy)  // Usa o contrato CrowdfundingProxy
+        .init(500_000_000_000u64, 123000u64)  // Parâmetros específicos do contrato: valor da doação e outro parâmetro, dependendo da implementação
+        .code(CODE_PATH)  // Caminho para o código do contrato compilado
+        .new_address(CROWDFUNDING_ADDRESS)  // Define o endereço para o contrato
+        .returns(ReturnsNewAddress)  // Especifica que queremos o novo endereço do contrato implantado
+        .run();  // Executa a transação
+
+    // Verifica se o endereço retornado pelo contrato é o endereço esperado
+    assert_eq!(crowdfunding_address, CROWDFUNDING_ADDRESS.to_address());
+
+    // Retorna o mundo de execução atualizado
+    world
+}

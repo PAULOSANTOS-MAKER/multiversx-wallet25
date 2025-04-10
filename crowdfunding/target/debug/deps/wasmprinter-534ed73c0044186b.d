@@ -1,0 +1,10 @@
+/Users/pauloalberto/multiversx-wallet25/crowdfunding/target/debug/deps/libwasmprinter-534ed73c0044186b.rmeta: /Users/pauloalberto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.227.1/src/lib.rs /Users/pauloalberto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.227.1/src/component.rs /Users/pauloalberto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.227.1/src/operator.rs /Users/pauloalberto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.227.1/src/print.rs
+
+/Users/pauloalberto/multiversx-wallet25/crowdfunding/target/debug/deps/libwasmprinter-534ed73c0044186b.rlib: /Users/pauloalberto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.227.1/src/lib.rs /Users/pauloalberto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.227.1/src/component.rs /Users/pauloalberto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.227.1/src/operator.rs /Users/pauloalberto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.227.1/src/print.rs
+
+/Users/pauloalberto/multiversx-wallet25/crowdfunding/target/debug/deps/wasmprinter-534ed73c0044186b.d: /Users/pauloalberto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.227.1/src/lib.rs /Users/pauloalberto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.227.1/src/component.rs /Users/pauloalberto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.227.1/src/operator.rs /Users/pauloalberto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.227.1/src/print.rs
+
+/Users/pauloalberto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.227.1/src/lib.rs:
+/Users/pauloalberto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.227.1/src/component.rs:
+/Users/pauloalberto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.227.1/src/operator.rs:
+/Users/pauloalberto/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.227.1/src/print.rs:

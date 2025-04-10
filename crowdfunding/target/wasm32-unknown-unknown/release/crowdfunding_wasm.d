@@ -1,0 +1,1 @@
+/Users/pauloalberto/multiversx-wallet25/crowdfunding/target/wasm32-unknown-unknown/release/crowdfunding_wasm.wasm: /Users/pauloalberto/multiversx-wallet25/crowdfunding/src/crowdfunding.rs /Users/pauloalberto/multiversx-wallet25/crowdfunding/wasm/src/lib.rs

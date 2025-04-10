@@ -1,0 +1,1 @@
+/Users/pauloalberto/multiversx-wallet25/crowdfunding/target/debug/crowdfunding-meta: /Users/pauloalberto/multiversx-wallet25/crowdfunding/meta/src/main.rs /Users/pauloalberto/multiversx-wallet25/crowdfunding/src/crowdfunding.rs
